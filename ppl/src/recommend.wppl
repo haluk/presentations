@@ -1,0 +1,25 @@
+// A model query that describes my class attendance.
+// attendance and relevance models were defined previously
+
+
+// A wrapper for `factor` for requiring conditions to be true.
+var require = function(cond) {
+  if (!cond) {
+    factor(-Infinity);
+  }
+}
+
+var recommend = function() {
+  var i_pl = flip(0.5);
+  var i_stats = flip(0.5);
+  var busy = flip(0.5);
+
+  // Require my class attendance.
+  var att = attendance(i_pl, i_stats, busy);
+  require(att.cs4110 && att.cs4242 && !att.cs4780);
+
+  return relevance(i_pl, i_stats);
+}
+
+var dist = Enumerate(recommend);
+viz.table(dist);

@@ -1,0 +1,30 @@
+#+TITLE: Notes
+
+* Histology: Science Meets Art
+Histology is the interface where Science meets Art. Histology is the study of
+tissues and their appearance. Cells and tissue are colourless, so dyes are used
+to visualise and to differentially identify the morphology under the microscope.
+The standard dyes routinely used for the staining of cells and tissue are
+haematoxylin and eosin (H&E). Haematoxylin is a basic dye that stains cell
+nuclei blue-black. Eosin is an acidic dye that stains the cytoplasm and all
+other structures pink or red. All other stains are called the Special Stains.
+These offer further evaluation of structures seen in the H&E staining and which
+require a more definite identification. The Special Stains are indeed special.
+
+The canvas depicts an unstained section of skin on a microscope slide. The
+section has been stained with the Special Stain of Masson’s trichrome. The three
+colours are acid fuschin red, aniline blue and Weigert's haematoxylin. The
+result is an explosion of colour in the stained tissue as the fuschin red stains
+the epithelium, smooth muscle and fat cells a ruby red colour, the aniline blue
+stains collagen a sky blue colour and Weigert’s haematoxylin stains the nuclei a
+rich ebony colour. When viewed under the light microscope, the structure and
+colours of the natural world marry together to create a masterpiece which
+provides a deep insight into the organisation and function of the living world.
+
+* First Published Microscopic Sections of Cancer
+Sir Everard Home, a British surgeon, was the first to publish histological
+sections of tumors in his 1830 book, “A short tract on the formation of tumours,
+and the peculiarities that are met with in the structure of those that have
+become cancerous; with their mode of treatment.” A copy of the book from
+Northwestern’s Galter Health Sciences Library Special Collections shows a plate
+captioned “the section of a cancerous tumour” with seven figures.

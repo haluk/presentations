@@ -1,0 +1,15 @@
+var roll_condition4 = function () {
+  var die1 = randomInteger(6) + 1;
+  var die2 = randomInteger(6) + 1;
+
+  // Only keep executions where at least one die is a 4.
+  if (!(die1 === 4 || die2 === 4)) {
+    factor(-Infinity);
+  }
+
+  return die1 + die2;
+}
+
+var dist = Enumerate(roll_condition4);
+print(dist);
+viz.auto(dist);

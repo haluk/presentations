@@ -1,0 +1,5 @@
+@default_files = ('presentation.tex');
+
+$pdf_mode = 4;
+$clean_ext = 'bbl rel nav out snm vrb %R-blx.bib %R.synctex.gz';
+$lualatex = 'lualatex -shell-escape -synctex=1 %O %S';
